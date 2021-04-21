@@ -250,7 +250,7 @@ $(document).ready(function () {
                                     ),
                                     $('<div>', { id: '', class: 'col-md-6 col-xs-12 pa10', text: '' }).append(
                                         $('<div>', { id: '', class: 'h1 oh', text: '' }).append(
-                                            $('<div>', { id: '', class: 'bgrn bgpc bgsc h1 phóng', style: 'background-image: url("https://timviec365.com/pictures/images/developer-la-gi-4.jpg")', text: '' }),
+                                            $('<div>', { id: '', class: 'bgrn bgpc bgsc h1 phóng', style: 'background-image: url("https://mk0goodhirecomxdfa5r.kinstacdn.com/wp-content/uploads/2020/10/Blog-4-ways-background-checks-help-with-future-hiring.png")', text: '' }),
                                         ),
                                     ),
                                     $('<div>', { id: '', class: 'col-md-6 col-xs-12 pa10', text: '' }).append(
